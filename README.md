@@ -1,4 +1,4 @@
-# Arevangular
+#Arevangular
 
 My own implementation of [AngularJS 1.x](https://angularjs.org/), following the instructions of the eBook [*Build your own AngularJS*](http://teropa.info/build-your-own-angular/), by Tero Parviainen.
 
